@@ -1,6 +1,6 @@
 # useFetch
 
-Ejemolo:
+Ejemplo de uso:
 
 ```
     const url = 'endpoint de una api';
